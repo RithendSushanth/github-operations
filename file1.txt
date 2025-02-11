@@ -1,1 +1,2 @@
 Hello, GitHub!
+Conflicting change in feature branch
